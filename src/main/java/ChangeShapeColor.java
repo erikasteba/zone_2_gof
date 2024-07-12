@@ -1,0 +1,3 @@
+interface ChangeShapeColor {
+    void changeShapeColor();
+}
